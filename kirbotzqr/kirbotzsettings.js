@@ -1,10 +1,10 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ['6287705048235']
-global.ownerNumber = ["6287705048235@s.whatsapp.net"]
-global.namabotnya = 'KirBotz'
-global.namaownernya = 'Akira'
+global.owner = ['6282248192917']
+global.ownerNumber = ["6282248192917@s.whatsapp.net"]
+global.namabotnya = 'bukan bot'
+global.namaownernya = 'Khael'
 global.packname = '© KirBotz||+62🇲🇨\nI`m From Indonesia'
 global.author = 'Wa : 0877-0504-8235\nYT : KirBotz×'
 global.sessionName = 'kirbotz'
